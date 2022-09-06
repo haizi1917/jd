@@ -6,7 +6,7 @@ ql repo命令拉取脚本时需要拉取的文件后缀，直接写文件后缀�
 `RepoFileExtensions="js py ts"`
 
 
-ql repo https://github.com/KingRan/KR.git "jd_|jx_|jdCookie" "activity|backUp" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR"
+ql repo https://github.com/haizi1917/jd.git "jd_|jx_|jdCookie" "activity|backUp" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR"
 PS：
 ql repo <repourl> <path> <blacklist> <dependence> <branch>
 对应意思“库地址”“拉哪些”“不拉哪些”“依赖文件”“分支”
